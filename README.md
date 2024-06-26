@@ -7,6 +7,7 @@
 
 ## Tecnologias
 <div style="display: inline_block"> <br>
+  <img align="center" alt="LuisFabiano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="LuisFabiano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="LuisFabiano-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   <img align="center" alt="LuisFabiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -20,7 +21,6 @@
 
 ## Aprendendo
 <div style="display: inline_block"> <br>
-  <img align="center" alt="LuisFabiano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="LuisFabiano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="LuisFabiano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   
